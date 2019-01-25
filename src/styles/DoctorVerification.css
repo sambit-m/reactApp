@@ -1,0 +1,18 @@
+.card1body {
+    margin: 0 0 50px 0;
+    padding: 0 0 20px 0;
+}
+
+.card2body {
+    background-color: #8bbfd4;
+    border: 2px solid #7199ab;
+}
+
+.card3body {
+    background-color: rosybrown;
+}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
